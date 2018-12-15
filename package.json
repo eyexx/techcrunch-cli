@@ -13,7 +13,8 @@
     "commander": "^2.19.0",
     "feedparser": "^2.2.9",
     "figlet": "^1.2.1",
-    "inquirer": "^6.2.1"
+    "inquirer": "^6.2.1",
+    "request": "^2.88.0"
   },
   "bin": {
     "tc": "./index.js"
