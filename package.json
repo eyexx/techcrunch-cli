@@ -11,7 +11,8 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
-    "figlet": "^1.2.1"
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1"
   },
   "bin": {
     "tc": "./index.js"
