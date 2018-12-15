@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var program = require('commander');
 
 
@@ -6,3 +8,5 @@ program
     .description('List TechCrunch Top Stories')
 
 console.log("hello world")
+
+
