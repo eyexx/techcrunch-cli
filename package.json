@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.19.0"
+  },
+  "bin": {
+    "techcrunch": "index.js"
   }
 }
