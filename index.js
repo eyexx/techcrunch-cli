@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 
 var program = require('commander');
-const chalk       = require('chalk');
-const figlet = requre('figlet');
+const chalk = require('chalk');
+const figlet = require('figlet');
 
-clear();
 console.log(
     chalk.green(
         figlet.textSync('TechCrunch-cli', { horizontalLayout: 'full' })
