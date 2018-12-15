@@ -3,6 +3,7 @@
 var program = require('commander');
 const chalk = require('chalk');
 const figlet = require('figlet');
+var list = require('./lib/list');
 
 console.log(
     chalk.green(
@@ -16,6 +17,7 @@ program
     .description('List TechCrunch Top Stories')
     .action(function () {
         console.log("Hello tech crunch")
+        list()
     })
 
 
