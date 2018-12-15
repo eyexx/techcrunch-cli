@@ -1,7 +1,7 @@
 {
   "name": "techcrunch-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "TechCrunch for Hackers - A CLI to TechCrunch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
