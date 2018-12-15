@@ -12,6 +12,6 @@
     "commander": "^2.19.0"
   },
   "bin": {
-    "techcrunch": "./index.js"
+    "tc": "./index.js"
   }
 }
