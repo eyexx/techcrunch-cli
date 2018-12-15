@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.19.0"
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "figlet": "^1.2.1"
   },
   "bin": {
     "tc": "./index.js"
