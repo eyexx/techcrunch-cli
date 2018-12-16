@@ -27,5 +27,12 @@ program
         list.fetchArticles()
     })
 
+program
+    .command('tag')
+    .arguments('<tag>')
+    .description('List Recently Articles by tag')
+    .action(function(tag){
+
+    });
 
 program.parse(process.argv);
