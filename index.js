@@ -32,8 +32,7 @@ program
     .arguments('<tag>')
     .description('List Recently Articles by tag')
     .action(function(tag){
-
-
+        list.getArticlesByTag(tag)
     });
 
 program.parse(process.argv);
