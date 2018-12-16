@@ -16,7 +16,7 @@ program
     .command('top')
     .description('List TechCrunch Top Stories')
     .action(function () {
-        list.fetchArticles()
+        list.getTopArticles()
     })
 
 program
