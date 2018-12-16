@@ -13,7 +13,7 @@ program
 
 program
     .command('top')
-    .description('List TechCrunch Top Stories')
+    .description('List TechCrunch top articles')
     .action(function () {
         list.getTopArticles()
     })
@@ -21,7 +21,7 @@ program
 program
     .command('search')
     .arguments('<searchTerms...>')
-    .description('Search Articles By Words')
+    .description('Search articles by words')
     .action(function (searchTerms) {
         list.searchArticlesByWord(searchTerms)
     })
@@ -29,7 +29,7 @@ program
 program
     .command('tag')
     .arguments('<tag>')
-    .description('List Recently Articles by tag')
+    .description('List recently articles by tag')
     .action(function (tag) {
         list.getArticlesByTag(tag)
     });
