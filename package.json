@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Kosuke Yoshimura",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
@@ -19,7 +19,22 @@
     "request": "^2.88.0",
     "string-to-stream": "^1.1.1"
   },
+  "homepage": "https://github.com/Koshukey/TechCrunch-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Koshukey/TechCrunch-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koshukey/TechCrunch-cli.git"
+  },
   "bin": {
     "tc": "./index.js"
-  }
+  },
+  "keywords": [
+    "techcrunch",
+    "cli",
+    "geeks",
+    "hackers",
+    "top"
+  ]
 }
