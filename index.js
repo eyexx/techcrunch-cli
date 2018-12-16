@@ -24,7 +24,7 @@ program
     .arguments('<searchTerms...>')
     .description('Search Articles By Words')
     .action(function (searchTerms) {
-        list.fetchArticles()
+        list.searchArticlesByWord(searchTerms)
     })
 
 program
@@ -32,6 +32,7 @@ program
     .arguments('<tag>')
     .description('List Recently Articles by tag')
     .action(function(tag){
+
 
     });
 
