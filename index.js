@@ -7,7 +7,7 @@ var list = require('./lib/list');
 
 console.log(
     chalk.green(
-        figlet.textSync('TechCrunch-cli', { horizontalLayout: 'full' })
+        figlet.textSync('TechCrunch-cli', {horizontalLayout: 'full'})
     )
 );
 
@@ -31,7 +31,7 @@ program
     .command('tag')
     .arguments('<tag>')
     .description('List Recently Articles by tag')
-    .action(function(tag){
+    .action(function (tag) {
         list.getArticlesByTag(tag)
     });
 
