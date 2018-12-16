@@ -29,7 +29,7 @@ program
 program
     .command('tag')
     .arguments('<tag>')
-    .description('List recently articles by tag')
+    .description('List current articles by tag')
     .action(function (tag) {
         list.getArticlesByTag(tag)
     });
