@@ -19,20 +19,20 @@ program
     })
 
 program
-    .command('search')
-    .arguments('<searchTerms...>')
-    .description('Search articles by words')
-    .action(function (searchTerms) {
-        list.searchArticlesByWord(searchTerms)
-    })
-
-program
     .command('tag')
     .arguments('<tag>')
     .description('List current articles by tag')
     .action(function (tag) {
         list.getArticlesByTag(tag)
     });
+
+program
+    .command('search')
+    .arguments('<searchTerms...>')
+    .description('Search articles by words')
+    .action(function (searchTerms) {
+        list.searchArticlesByWord(searchTerms)
+    })
 
 program.parse(process.argv);
 
