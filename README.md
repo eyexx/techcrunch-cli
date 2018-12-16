@@ -8,6 +8,22 @@ Installation
 
 `$ npm install -g techcrunchcli`
 
+Docs
+----
+    Usage: tc [options] [command]
+
+    Commands:
+
+    top                            List TechCrunch top articles
+    tag  <tag>                     List current articles by tag
+    search <searchTerms...>        Search articles by words
+   
+    Options:
+
+    -h, --help     output usage information
+    -V, --version  output the version number
+  
+   
 
 
 Issues
