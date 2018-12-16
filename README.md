@@ -1,7 +1,20 @@
-TechCrunch-cli [![npm version](https://badge.fury.io/js/mediumcli.svg)](https://www.npmjs.com/package/mediumcli) 
+<div align="center">
+  <br>
+  <img
+
+  />
+  <h1>TechCrunch-CLI </h1>
+  <strong>TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
+</strong>
+</div>
+
+
+
+
+TechCrunch-CLI 
 ==========
 
-TechCrunch Reader for Hackers - A CLI for reading TechCrunch news.
+TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
 
 Installation
 ------------
