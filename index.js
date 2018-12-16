@@ -19,5 +19,13 @@ program
         list.fetchArticles()
     })
 
+program
+    .command('search')
+    .arguments('<searchTerms...>')
+    .description('Search Articles By Words')
+    .action(function (searchTerms) {
+        list.fetchArticles()
+    })
+
 
 program.parse(process.argv);
