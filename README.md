@@ -24,24 +24,45 @@ Docs
     -V, --version  output the version number
   
    
+Usage
+-----
+The commands available are: `tc top`, `tc tag`, `tc search`
+
+#### top command
+`$ tc top`
+
+ List TechCrunch top articles
+
+#### tag command
+`$ tc tag`
+
+List current articles by tag
+
+
+#### search command
+`$ tc search`
+
+Search articles by words
+
 
 
 Issues
 ------
 
-Feel free to submit issues and enhancement requests.
+Feel free to submit issues.
 
 
 Contributing
 ------------
 
-TechCrunch-cli is written in NodeJs and would love to accept pull requests for any issues or feature request.
+All feedback and suggestions are welcome, just post an issue!
 
+Author
+-------
 
+[Kosuke Yoshimura](https://koshukey.github.io/)
 
 
 License
 -------
-
-Copyright (c) 2018 Kosuke Yoshimura
 Licensed under the [MIT license](http://opensource.org/licenses/MIT).
