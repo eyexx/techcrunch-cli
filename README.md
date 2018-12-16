@@ -29,12 +29,12 @@ Usage
 The commands available are: `tc top`, `tc tag`, `tc search`
 
 #### top command
-`$ tc top`
+`$ tc top <tag>`
 
  List TechCrunch top articles
 
 #### tag command
-`$ tc tag`
+`$ tc tag <searchTerms...>  `
 
 List current articles by tag
 
