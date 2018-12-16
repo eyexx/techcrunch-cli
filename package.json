@@ -11,11 +11,13 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
+    "default-pager": "^1.1.0",
     "feedparser": "^2.2.9",
     "figlet": "^1.2.1",
     "html-to-text": "^4.0.0",
     "inquirer": "^6.2.1",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "string-to-stream": "^1.1.1"
   },
   "bin": {
     "tc": "./index.js"
