@@ -4,12 +4,18 @@ var program = require('commander');
 const chalk = require('chalk');
 const figlet = require('figlet');
 var list = require('./lib/list');
+var path = require('path');
+var package = require(path.join(__dirname, 'package.json'));
 
 console.log(
     chalk.green(
         figlet.textSync('TechCrunch-cli', {horizontalLayout: 'full'})
     )
 );
+
+program
+    .version(package.version)
+    .description(package.description);
 
 
 program
