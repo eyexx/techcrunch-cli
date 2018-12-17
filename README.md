@@ -26,7 +26,7 @@ Demo
 ------------
 
 <p align="center">
-<img alt="demo"  width="560px" height="363px" src="assets/DemoWidthWhiteBg.gif"/>
+<img alt="demo"  width="560px" height="363px" src="assets/Demo.gif"/>
 </p>
 
 
@@ -34,7 +34,7 @@ Demo
 Installation
 ------------
 
-`$ npm install -g techcrunchcli`
+`$ npm install -g techcrunch-cli`
 
 Docs
 ----
