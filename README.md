@@ -22,6 +22,13 @@
   
 </div>
 
+Demo
+------------
+
+<p align="center">
+<img alt="demo" src="assets/Demo.gif"/>
+</p>
+
 
 
 Installation
