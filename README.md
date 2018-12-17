@@ -26,7 +26,7 @@ Demo
 ------------
 
 <p align="center">
-<img alt="demo" style="border-radius: 10px" width="560px" height="310px" src="assets/DemoWithoutBg.gif"/>
+<img alt="demo"  src="assets/DemoWidthWhiteBg.gif"/>
 </p>
 
 
