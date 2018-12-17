@@ -2,11 +2,14 @@
   <br>
   <img
   src="assets/Logo.png" 
+  width=500px
+  height = 195px
   />
-  <h1>TechCrunch-CLI </h1>
-  <strong>TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
-</strong>
+  
 </div>
+
+>TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
+
 
 Installation
 ------------
