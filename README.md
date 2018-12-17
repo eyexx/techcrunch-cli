@@ -26,7 +26,7 @@ Demo
 ------------
 
 <p align="center">
-<img alt="demo" src="assets/Demo.gif"/>
+<img alt="demo" width="560px" height="310px" src="assets/Demo.gif"/>
 </p>
 
 
