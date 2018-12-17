@@ -1,20 +1,12 @@
 <div align="center">
   <br>
   <img
-
+  src="assets/Logo.png" 
   />
   <h1>TechCrunch-CLI </h1>
   <strong>TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
 </strong>
 </div>
-
-
-
-
-TechCrunch-CLI 
-==========
-
-TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
 
 Installation
 ------------
@@ -56,13 +48,6 @@ List current articles by tag
 `$ tc search`
 
 Search articles by words
-
-
-
-Issues
-------
-
-Feel free to submit issues.
 
 
 Contributing
