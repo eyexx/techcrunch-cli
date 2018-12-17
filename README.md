@@ -6,9 +6,16 @@
   height = 195px
   />
   
+  <h1>TechCrunch-CLI</h1>
+  	<p>
+  		<b>TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.</b>
+  	</p>
+  	<br>
+  	<br>
+  	<br>
+  
 </div>
 
->TechCrunch Reader for Hackers - A CLI for reading TechCrunch articles.
 
 
 Installation
