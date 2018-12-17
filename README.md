@@ -10,6 +10,9 @@
   	<p>
   		<b>TechCrunch Reader for Hackers - A CLI for reading TechCrunch.</b>
   	</p>
+      <a href="https://opensource.org/licenses/MIT/">
+        <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="MIT"/>
+      </a>
   	<br>
   	<br>
   	<br>
