@@ -21,8 +21,8 @@
   	<a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
   	 <img
       src="assets/TechCrunch_Press.png" 
-      width=500px
-      height = 195px
+      width=700px
+      height = 124px
       />
     </a>
   	<br>
