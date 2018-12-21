@@ -91,15 +91,9 @@ Author
 -------
 
 [Kosuke Yoshimura](https://koshukey.github.io/)
-
- 
- Press
- -------
-
-
+    
 License
 -------
  MIT
 
- ["Pretend to be productive by reading TechCrunch in your terminal window"](https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/)
  
