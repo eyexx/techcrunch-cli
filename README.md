@@ -18,6 +18,14 @@
             </a>
   	<br>
   	<br>
+  	<a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
+  	 <img
+      src="assets/TechCrunch_Press.png" 
+      width=500px
+      height = 195px
+      />
+    </a>
+  	<br>
   	<br>
   
 </div>
@@ -83,7 +91,14 @@ Author
 
 [Kosuke Yoshimura](https://koshukey.github.io/)
 
+ 
+ Press
+ -------
+
 
 License
 -------
  MIT
+
+ ["Pretend to be productive by reading TechCrunch in your terminal window"](https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/)
+ 
