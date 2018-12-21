@@ -18,11 +18,12 @@
             </a>
   	<br>
   	<br>
+  	<br>
   	<a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
   	 <img
       src="assets/TechCrunch_Press.png" 
-      width=700px
-      height = 124px
+      width=600px
+      height = 106px
       />
     </a>
   	<br>
