@@ -89,6 +89,8 @@ License
  
  Press
  -------
+ 
+ <div align="center">
 
 <a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
   	 <img
@@ -97,4 +99,6 @@ License
       height = 71px
       />
     </a>
+   
+ </div>
  
