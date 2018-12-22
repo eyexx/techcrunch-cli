@@ -19,15 +19,6 @@
   	<br>
   	<br>
   	<br>
-  	<a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
-  	 <img
-      src="assets/PressImg.png" 
-      width=400px
-      height = 71px
-      />
-    </a>
-  	<br>
-  	<br>
   
 </div>
 
@@ -95,5 +86,15 @@ Author
 License
 -------
  MIT
+ 
+ Press
+ -------
 
+<a  href="https://techcrunch.com/2018/12/18/pretend-to-be-productive-by-reading-techcrunch-in-your-terminal-window/">
+  	 <img
+      src="assets/PressImg.png" 
+      width=400px
+      height = 71px
+      />
+    </a>
  
